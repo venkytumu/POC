@@ -1,0 +1,36 @@
+.sign-in-body{
+    background-color: rgb(204, 231, 222);
+}
+ .container.signin-container{
+   margin-top: 8%;
+}
+.card.sign-in-card{
+  background-color: rgb(248, 236, 236);
+  padding: 20px 20px 20px 20px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+.img-fluid.sign-in-img{
+  display: block;
+  padding: 0 4rem 2rem;
+  width: 60%;
+  margin: auto;
+}
+form.sign-in-form{
+  max-width: 350px;
+  margin: auto;
+}
+
+button.btn-primary{
+  color: white;
+  background-color: brown;
+  width: 100%;
+}
+.col-7{
+  width: 60%;
+}
+.Signup-p{
+  padding-left: 15px;
+}
+.Signup-link{
+  padding-left: 2rem;
+}
